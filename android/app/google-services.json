@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187045596167",
+    "project_id": "e-ferme",
+    "storage_bucket": "e-ferme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187045596167:android:21abb1123c7d49ce7aeea2",
+        "android_client_info": {
+          "package_name": "com.example.eferme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK6FsXU5hlYgDz-7xxmvz-78oOkLaEyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
