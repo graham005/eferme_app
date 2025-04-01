@@ -147,7 +147,7 @@ The app requires the following permissions:
 
 ---
 
-## **Build and Release**
+## **Build**
 
 ### **1. Debug Build**
 Run the app in debug mode:
