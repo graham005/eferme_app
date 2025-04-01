@@ -78,17 +78,9 @@ OPENWEATHER_API_KEY=your_openweather_api_key
 ```
 
 ### **5. Run the App**
-For development:
 ```bash
 flutter run
 ```
-
-For release:
-```bash
-flutter build apk --release
-```
-
----
 
 ## **Key Files**
 
